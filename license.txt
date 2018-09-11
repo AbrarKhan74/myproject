@@ -177,3 +177,4 @@
    10 Experimenting on automation
     11 new edited
 	12 devops 
+	shell scripting
